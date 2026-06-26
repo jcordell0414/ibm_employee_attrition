@@ -6,9 +6,9 @@ Python, SQL, and Tableau. The goal was to identify which factors most strongly
 correlate with attrition and surface actionable retention insights.
 
 ## Tools
-- **Python** (pandas, numpy, matplotlib, seaborn) — cleaning, EDA, correlation analysis
-- **SQL** (SQLite via Python) — structured business question analysis
-- **Tableau** — interactive dashboard
+- **Python** (pandas, numpy, matplotlib, seaborn) - cleaning, EDA, correlation analysis
+- **SQL** (SQLite via Python) - structured business question analysis
+- **Tableau** - interactive dashboard
 
 ## Dataset
 IBM HR Analytics Employee Attrition & Performance Dataset  
