@@ -31,7 +31,6 @@ Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 ```text
 employee_attrition_analysis/
 │
-├── employee_attrition_analysis.ipynb
 │
 ├── 1_data/
 │   ├── cleaned/
