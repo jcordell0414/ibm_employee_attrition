@@ -26,24 +26,33 @@ Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 ## Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/jace.cordell/viz/ibm_employee_attrition/Overview?publish=yes)
 
-## Project Structure├── employee_attrition_analysis.ipynb
-'''
+## Project Structure
+
+```text
+employee_attrition_analysis/
+│
+├── employee_attrition_analysis.ipynb
+│
 ├── 1_data/
-│    ├── cleaned/
-│         └──clean_attrition.csv
-|    └──raw/
-│         └──WA_Fn-UseC_-HR-Employee-Attrition.csv
+│   ├── cleaned/
+│   │   └── clean_attrition.csv
+│   └── raw/
+│       └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+│
 ├── 2_scripts/
-|   └──employee_attrition_cleaning.ipynb
+│   └── employee_attrition_cleaning.ipynb
+│
 ├── 3_visuals/
-    ├── attrition_by_tenure.png
-    ├── attrition_by_jobrole.png
-    ├── attrition_by_department.png  
-    ├── attrition_by_overtime.png
-    ├── income_by_attrition.png
-    └── correlation_with_attrition.png
-└──4_report/
+│   ├── attrition_by_tenure.png
+│   ├── attrition_by_jobrole.png
+│   ├── attrition_by_department.png
+│   ├── attrition_by_overtime.png
+│   ├── income_by_attrition.png
+│   └── correlation_with_attrition.png
+│
+└── 4_report/
     └── employee_attrition_report.pdf
+```
 
 ## Recommendations
 1. Conduct targeted retention reviews for Sales Representatives in their first two years, particularly those working overtime and earning below-median income
