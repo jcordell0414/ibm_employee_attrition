@@ -27,7 +27,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 [View on Tableau Public](https://public.tableau.com/app/profile/jace.cordell/viz/ibm_employee_attrition/Overview?publish=yes)
 
 ## Project Structure├── employee_attrition_analysis.ipynb
-
+'''
 ├── 1_data/
 │    ├── cleaned/
 │         └──clean_attrition.csv
