@@ -16,7 +16,7 @@ IBM HR Analytics Employee Attrition & Performance Dataset
 Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## Key Findings
-1. Sales Representatives leave at 39.8% — nearly 4x the rate of Managers (4.9%)
+1. Sales Representatives leave at 39.8% - nearly 4x the rate of Managers (4.9%)
 2. Overtime employees leave at 3x the rate of non-overtime employees (30.5% vs. 10.4%)
 3. Attrition peaks at 36% in year one and drops sharply after year five
 4. Employees who left earned $2,046 less per month on average than those who stayed
