@@ -50,7 +50,7 @@ employee_attrition_analysis/
 │   └── correlation_with_attrition.png
 │
 └── 4_report/
-    └── employee_attrition_report.pdf
+    └── Employee_Attrition_Project_Report.pdf
 ```
 
 ## Recommendations
