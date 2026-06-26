@@ -55,7 +55,7 @@ employee_attrition_analysis/
 
 ## Recommendations
 1. Conduct targeted retention reviews for Sales Representatives in their first two years, particularly those working overtime and earning below-median income
-2. Audit overtime distribution — the 3x attrition rate points to addressable workload imbalance
+2. Audit overtime distribution - the 3x attrition rate points to addressable workload imbalance
 3. Evaluate compensation benchmarks for early-career employees given the $2,046 monthly income gap between those who stayed and those who left
 
   
